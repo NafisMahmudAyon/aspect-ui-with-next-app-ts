@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "../components/aspect-ui/aspect-ui.css"
+@import "../components/aspect-ui/aspect-ui.css";
 
 :root {
   --background: #ffffff;
