@@ -14,9 +14,9 @@
     "embla-carousel": "^8.6.0",
     "embla-carousel-react": "^8.6.0",
     "framer-motion": "^12.9.1",
-    "next": "15.3.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "next": "^15.3.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "react-focus-lock": "^2.13.6",
     "react-remove-scroll": "^2.6.3",
     "react-syntax-highlighter": "^15.6.1",
@@ -32,7 +32,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.3.1",
+    "eslint-config-next": "^15.3.2",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
